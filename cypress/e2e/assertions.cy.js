@@ -22,7 +22,7 @@ describe('HRM WEBSITE', () => {
         cy.get('.oxd-button').click();
 
         cy.get(':nth-child(1) > .oxd-main-menu-item').click();
-        
+
 
         cy.get('.orangehrm-header-container > .oxd-button')
 
