@@ -1,0 +1,18 @@
+{
+  "name": "cypressinstallation",
+  "version": "1.0.0",
+  "description": "RCV Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nithin Chandra",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2",
+    "file-upload-plugin": "^0.2.38"
+  }
+}
